@@ -49,7 +49,7 @@ LR_04 -- Activating wiper blades -- Implemented
 
 LR_05 -- OFF -- Implemented
 
-FINAL OUTPUTS:
+# FINAL OUTPUTS:
 
 1. EXECUTION WHEN BUTTON IS PRESSED ONCE FOR 2 SECONDS:
 Ignition mode and Car in ON
