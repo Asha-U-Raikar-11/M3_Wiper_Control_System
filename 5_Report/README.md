@@ -26,18 +26,27 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 HIGH LEVEL REQUIREMENTS:
 
 ID	     DESCRIPTION    	       STATUS
-HR_01   Car in ACC mode 	    Implemented 
+
+HR_01   Car in ACC mode 	    Implemented
+
 HR_02	  Car in ignition mode 	Implemented 
+
 HR_03	  Turning on the wiper  Implemented
+
 HR_04	  Turning off the wiper Implemented
  
 LOW LEVEL REQUIREMENTS:
 
  ID	    DESCRIPTION	            STATUS
+ 
  LR_01	ON                  	 Implemented
+ 
  LR_02	Press wiper switch 	   Implemented
+ 
  LR_03	Microcontroller supply  Implemented
+ 
  LR_04	Activating wiper blades Implemented
+ 
  LR_05	OFF                    	Implemented 
 
 # TEST PLAN:
@@ -45,13 +54,17 @@ LOW LEVEL REQUIREMENTS:
 HIGH LEVEL TEST PLAN:
 
 TEST ID	          DESCRIPTION	                    TEST TYPE	             OUTPUT EXPECTED     	    FINAL STATUS
-H_01    	Moving the wiper along windshield 	   Secnario based test	           PASS 	            IMPLEMENTED
-H_02	    wiper comes back to the rest position  Boundary value based test       PASS	              IMPLEMENTED 
+
+H_01    	Moving the wiper along windshield 	   Secnario based test	           PASS 	              IMPLEMENTED
+
+H_02	    wiper comes back to the rest position  Boundary value based test      PASS	              IMPLEMENTED 
 
 LOW LEVEL TEST PLAN:
 
 TEST ID         	DESCRIPTION	          TEST TYPE	            OUTPUT EXPECTED	         FINAL STATUS
-L_01           	Powering ON the Car	  Secnario based test   	     PASS 	              IMPLEMENTED
+
+L_01           	Powering ON the Car	  Secnario based test   	     PASS 	             IMPLEMENTED
+
 L_02	          Powering OFF the Car	Boundary value based test 	 PASS	                IMPLEMENTED 
 
 FINAL OUTPUTS:
