@@ -37,17 +37,17 @@ HR_04	  Turning off the wiper Implemented
  
 LOW LEVEL REQUIREMENTS:
 
- ID	    DESCRIPTION	            STATUS
+ ID	        DESCRIPTION	            STATUS
  
- LR_01	ON                  	 Implemented
+ LR_01	      ON                  	  Implemented
  
- LR_02	Press wiper switch 	   Implemented
+ LR_02	      Press wiper switch 	    Implemented
  
- LR_03	Microcontroller supply  Implemented
+ LR_03    	  Microcontroller supply  Implemented
  
- LR_04	Activating wiper blades Implemented
+ LR_04      	Activating wiper blades Implemented
  
- LR_05	OFF                    	Implemented 
+ LR_05     	 OFF                    	Implemented 
 
 # TEST PLAN:
 
